@@ -1,0 +1,12 @@
+**/build/
+.gradle
+.idea
+bin/
+gen/
+out/
+*.iml
+.directory
+node_modules/
+local.properties
+gradle.properties
+android/mobile/release/*
